@@ -1,0 +1,11 @@
+offline:
+  model: yolov8
+  source: 0
+online:
+  IP: 192.168.137.165
+  port: 37942
+  source: 0
+server:
+  IP: 172.27.8.191
+  model: yolov8n
+  port: 37942
